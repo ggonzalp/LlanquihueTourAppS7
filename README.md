@@ -1,8 +1,8 @@
 * LlanquihueTourApp
 
 Descripción de la propuesta de proyecto para la agencia Llanquihue Tour.
-En esta séptima semana debemos procesar información de forma local y manual. El proceso incluye producción, lectura y sobrescritura de  listas 
-con datos relacionados a cada tipo de servicio turístico.
+En esta séptima semana debemos procesar información de forma local y manual. El proceso incluye producción, lectura, a través del bucle for-each, y sobrescritura a través del método
+mostrarInformacion() y @Override con datos relacionados a cada tipo de servicio turístico.
 
 * Tecnologías utilizadas
 - Java 23

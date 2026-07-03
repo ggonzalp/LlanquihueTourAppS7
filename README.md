@@ -34,7 +34,7 @@ LlanquihueTourApp/
 
 * Ejecución
 
-1° Clonar el repositorio: git clone https://github.com/ggonzalp/LlanquihueTourAppS6.git
+1° Clonar el repositorio: git clone https://github.com/ggonzalp/LlanquihueTourAppS7.git
 
 2° Abrir el proyecto en IntelliJ IDEA
 

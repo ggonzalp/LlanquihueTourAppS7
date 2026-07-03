@@ -28,7 +28,7 @@ LlanquihueTourApp/
    2.1 ExcursionCultural: Representa el tour excursion cultural.
    2.2 PaseoLacustre: Representa al tour paseo lacustre.
    2.3 RutaGastronomica: Representa el tour ruta gastronómica.
-   2.4 ServicioTurictico: Representa la clase padre de los tours.
+   2.4 ServicioTuristico: Representa la clase padre de los tours.
 3. ui
    3.1 Main: Clase principal que da inicio al sistema.
 

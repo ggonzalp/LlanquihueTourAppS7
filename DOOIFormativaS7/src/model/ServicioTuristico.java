@@ -36,7 +36,7 @@ public class ServicioTuristico {
     }
 
     /**
-     * Metodo mostrar información heredado y sobrescrito por las subclases.
+     * Metodo mostrarInformación() heredado y sobrescrito por las subclases hijas de esta clase padre.
      */
 
     public void mostrarInformacion() {

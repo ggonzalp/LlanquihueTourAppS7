@@ -2,7 +2,7 @@ package model;
 
 /**
  * Clase que representa el tour Ruta Gastronómica,
- * incluye los atributos heredados de la clase padre Servicio turístico
+ * incluye los atributos heredados de la clase padre ServicioTuristico
  * además del número de paradas durante el recorrido.
  */
 public class RutaGastronomica extends ServicioTuristico {
@@ -27,7 +27,7 @@ public class RutaGastronomica extends ServicioTuristico {
     }
 
     /**
-     * Metodo mostrarInformacion heredado de la clase padre ServicioTuristico para sobrescribirlo.
+     * Metodo mostrarInformacion() heredado de la clase padre ServicioTuristico para sobrescribirlo.
      */
 
     @Override

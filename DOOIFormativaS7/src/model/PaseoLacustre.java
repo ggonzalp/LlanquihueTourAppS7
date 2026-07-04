@@ -2,7 +2,7 @@ package model;
 
 /**
  * Clase que representa el tour Paseo Lacustre,
- * incluye los atributos heredados de la clase padre Servicio turístico
+ * incluye los atributos heredados de la clase padre ServicioTuristico
  * además del tipo de embarcación que se utilizará durante el recorrido.
  */
 
@@ -28,7 +28,7 @@ public class PaseoLacustre extends ServicioTuristico {
     }
 
     /**
-     * Metodo mostrarInformacion heredado de la clase padre ServicioTuristico para sobrescribirlo.
+     * Metodo mostrarInformacion() heredado de la clase padre ServicioTuristico para sobrescribirlo.
      */
 
     @Override

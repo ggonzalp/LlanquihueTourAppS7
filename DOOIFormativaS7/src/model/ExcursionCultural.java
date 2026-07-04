@@ -3,7 +3,7 @@ package model;
 
 /**
  * Clase que representa el tour ExcursionCultural,
- * incluye los atributos heredados de la clase padre Servicio turístico
+ * incluye los atributos heredados de la clase padre ServicioTurístico
  * además del lugar histórico que se visita durante el recorrido.
  */
 
@@ -29,7 +29,7 @@ public class ExcursionCultural extends ServicioTuristico {
     }
 
     /**
-     * Metodo mostrarInformacion heredado de la clase padre ServicioTuristico para sobresribirlo.
+     * Metodo mostrarInformacion() heredado de la clase padre ServicioTuristico para sobresribirlo.
      */
 
     @Override
